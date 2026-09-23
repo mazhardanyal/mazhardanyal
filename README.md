@@ -47,9 +47,9 @@ I love turning ideas into real products and writing code that’s both functiona
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **[Distribution Software](https://github.com/YOUR_USERNAME/MERN-School-Management-System)** | MERN |
-| **[Furniture Showroom](https://github.com/YOUR_USERNAME/repo-name)** | MERN |
-| **[Tailor Software](https://github.com/YOUR_USERNAME/repo-name)** | MERN |
+| **[Distribution Software](https://github.com/YOUR_USERNAME/your-repo)** | Distribution management system | MERN |
+| **[Furniture Showroom](https://github.com/YOUR_USERNAME/your-repo)** | Furniture showroom website | MERN |
+| **[Tailor Software](https://github.com/YOUR_USERNAME/your-repo)** | Tailor management software | MERN |
 
 ---
 
@@ -57,7 +57,7 @@ I love turning ideas into real products and writing code that’s both functiona
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mazhard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazhard)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazhardanyal32@gmail.com)
 
 </div>

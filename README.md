@@ -47,9 +47,9 @@ I love turning ideas into real products and writing code that’s both functiona
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **[School Management System](https://github.com/YOUR_USERNAME/MERN-School-Management-System)** | Complete school management system with Admin, Teacher & Student roles | MERN |
-| **[Project Name 2](https://github.com/YOUR_USERNAME/repo-name)** | Short description of your second project | MERN |
-| **[Project Name 3](https://github.com/YOUR_USERNAME/repo-name)** | Short description of your third project | React + Node |
+| **[Distribution Software](https://github.com/YOUR_USERNAME/MERN-School-Management-System)** | MERN |
+| **[Furniture Showroom](https://github.com/YOUR_USERNAME/repo-name)** | MERN |
+| **[Tailor Software](https://github.com/YOUR_USERNAME/repo-name)** | MERN |
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ MAZHAR DANYAL
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=700&color=00FFCC&center=true&vCenter=true&random=false&width=750&lines=MERN+Stack+Developer+%F0%9F%92%BB;I+Turn+Ideas+Into+Real+Products+%E2%9A%A1;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Building+Scalable+Full-Stack+Applications;Code.+Build.+Ship.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
 
 
 <br/>
